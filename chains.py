@@ -15,7 +15,7 @@ from services.Intranet_repository_s3 import IntranetRepository
 
 load_dotenv()
 # llm = ChatOpenAI(model="gpt-3.5-turbo")
-llm = ChatOpenAI(model="gpt-4")
+llm = ChatOpenAI(model="gpt-4o-mini")
 
 intranet_repository = IntranetRepository()
 vectorstore = intranet_repository.create_or_load_faiss_index()
