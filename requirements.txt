@@ -26,7 +26,7 @@ Deprecated @ file:///home/afd/.cache/pypoetry/artifacts/aa/40/d9/90dbc494e932390
 dill==0.3.9
 distro @ file:///home/afd/.cache/pypoetry/artifacts/89/39/56/bc4717f9d86f289d05e9d2f269d32c5916de2939b2743460b27a8c8654/distro-1.9.0-py3-none-any.whl
 docling==2.28.4
-docling-core==2.25.0
+docling-core==2.48.4
 docling-ibm-models==3.4.1
 docling-parse==4.0.0
 durationpy @ file:///home/afd/.cache/pypoetry/artifacts/8f/89/6f/acc282a6506113e8124c2badf4bc8dc878332cce788d28d4e054b081ea/durationpy-0.9-py3-none-any.whl
